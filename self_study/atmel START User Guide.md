@@ -35,4 +35,34 @@ d.禁用时钟的连接使用虚线显示
  违规频率的工具提示。 如果振荡器输入到输入到相同振荡器的信号源，则会显示警告，因为这样产生循环依赖。
  ```
 ![image](https://github.com/yuchengstudio/START/blob/master/self_study/picture/clock%20configuration_002.jpg)
+
+## 一个组件有多个时钟
+```
+    某些组件具有多个时钟。 如果是这种情况，用于拖放的时钟字体较暗。 要切换，请点击应该在拖放中使用的时钟的名称。
+```
+![image](https://github.com/yuchengstudio/START/blob/master/self_study/picture/clock%20configuration_003.jpg)
+
+## 设置组件的时钟源
+```
+时钟源可以从组件设置对话框中设置：
+```
+![image](https://github.com/yuchengstudio/START/blob/master/self_study/picture/clock%20configuration_004.jpg)
+
+```
+时钟源也可以从组件编辑器中选择：
+```
+![image](https://github.com/yuchengstudio/START/blob/master/self_study/picture/clock%20configuration_005.jpg)
+
+
+## 时钟参数设置
+```
+    振荡器和信号源设置对话框将显示由所选项目定义的设置。 提供了一个工具提示来帮助选择。 选中上角的“启用” - 
+框以启用编辑选项。
+```
+![image](https://github.com/yuchengstudio/START/blob/master/self_study/picture/clock%20configuration_006.jpg)
+
+
+
+
+
   
