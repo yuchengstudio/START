@@ -33,5 +33,6 @@ d.禁用时钟的连接使用虚线显示
  ```
      一些振荡器可能有一个源发生器作为输入。 如果频率超出定义的限制，这些将显示警告。 将鼠标悬停在文字上以显示显示来源和
  违规频率的工具提示。 如果振荡器输入到输入到相同振荡器的信号源，则会显示警告，因为这样产生循环依赖。
- ！[image](https://github.com/yuchengstudio/START/blob/master/self_study/picture/clock%20configuration_002.jpg)
  ```
+![image](https://github.com/yuchengstudio/START/blob/master/self_study/picture/clock%20configuration_002.jpg)
+  
