@@ -11,4 +11,7 @@ http://atmel-studio-doc.s3-website-us-east-1.amazonaws.com/webhelp/GUID-4E095027
 3.ASF4 API Reference Manual
 http://atmel-studio-doc.s3-website-us-east-1.amazonaws.com/webhelp/GUID-2A8AADED-413E-4021-AF0C-D99E61B8160D-en-US-1/index.html?GUID-114A439B-E85D-46AB-B76E-20DA43F285CA
 
+4.ASF4 API Reference Manual pdf版本下载地址
+https://github.com/yuchengstudio/START/blob/master/ASF4%20API%20Reference%20Manual.pdf
+
 
