@@ -1,6 +1,6 @@
 # 1.START使用参考
 
-       有关start的使用相关说明，请参考如下链接，建议在user guide中熟悉基本应有流程，在reference manual中熟悉下软件的框架结构，谢谢！
+有关start的使用相关说明，请参考如下链接，建议在user guide中熟悉基本应有流程，在reference manual中熟悉下软件的框架结构，谢谢！
 1.start 启动网址
 http://start.atmel.com/#
 
