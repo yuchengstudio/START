@@ -5,9 +5,8 @@
 
 # 2.SystemTick初始化过程
 
-
-！[images](https://github.com/yuchengstudio/START/blob/master/self_study/picture/systick006.jpg)
-！[images](https://github.com/yuchengstudio/START/blob/master/self_study/picture/systick007.jpg)
-！[images](https://github.com/yuchengstudio/START/blob/master/self_study/picture/systick008.jpg)
-！[images](https://github.com/yuchengstudio/START/blob/master/self_study/picture/systick009.jpg)
-！[images](https://github.com/yuchengstudio/START/blob/master/self_study/picture/systick0010.jpg)
+![images](https://github.com/yuchengstudio/START/blob/master/self_study/picture/systick006.jpg)
+![images](https://github.com/yuchengstudio/START/blob/master/self_study/picture/systick007.jpg)
+![images](https://github.com/yuchengstudio/START/blob/master/self_study/picture/systick008.jpg)
+![images](https://github.com/yuchengstudio/START/blob/master/self_study/picture/systick009.jpg)
+![images](https://github.com/yuchengstudio/START/blob/master/self_study/picture/systick0010.jpg)
