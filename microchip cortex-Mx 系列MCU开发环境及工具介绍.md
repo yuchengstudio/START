@@ -6,7 +6,7 @@
  | tips | <br/>1.同时，keil, IAR都能使用  <br/>2.用START自动生成的代码也能导出keil, IAR的工程| | 
  | 3 | http://www.microchip.com/developmenttools/ProductDetails/PartNo/AT91SAM-ICE | MCHP 官方调试工具 | 
  | tips |   | | 
- | 4 | http://www.microchip.com/developmenttools/ProductDetails/PartNo/AT91SAM-ICE | START离线版安装教程 | 
+ | 4 | https://github.com/yuchengstudio/START/blob/master/START%20offline%20guide.docx | START离线版安装教程 | 
  | tips |   | | 
 
 
