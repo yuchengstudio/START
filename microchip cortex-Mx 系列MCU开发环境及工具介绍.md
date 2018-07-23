@@ -7,7 +7,7 @@
  | 3 | http://www.microchip.com/developmenttools/ProductDetails/PartNo/AT91SAM-ICE | MCHP 官方调试工具 | 
  | tips |   | | 
  | 4 | https://github.com/yuchengstudio/START/blob/master/START%20offline%20guide.docx | START离线版安装教程 | 
- | tips |   | | 
+ | tips | 如果你的电脑不够好(不是I7+8G+固态硬盘), 请勿尝试离线版START! 请勿尝试离线版START! 请勿尝试离线版START! 否则,就是离线不成, 自损一半!  | | 
 
 
 
