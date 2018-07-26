@@ -8,6 +8,9 @@
  | tips |   | | 
  | 4 | http://blog.163.com/yucheng_xiao/blog/static/76600192201410435517757 | JTAG 转 SWD硬件连接说明 | 
  | tips |   | | 
+ | 5 | https://github.com/atmelcorp/atmel-software-package| soft pack | 
+ | tips |   | |  
+ 
  
  
 
