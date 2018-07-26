@@ -6,6 +6,9 @@
  | tips | <br/>1.同时，keil, IAR都能使用  <br/>2.用START自动生成的代码也能导出keil, IAR的工程| | 
  | 3 | http://www.microchip.com/developmenttools/ProductDetails/PartNo/AT91SAM-ICE | MCHP 官方调试工具 | 
  | tips |   | | 
+ | 3 | http://blog.163.com/yucheng_xiao/blog/static/76600192201410435517757 | JTAG 转 SWD硬件连接说明 | 
+ | tips |   | | 
+ 
  
 
 
