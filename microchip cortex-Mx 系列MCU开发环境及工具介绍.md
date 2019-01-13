@@ -3,6 +3,7 @@
  | 1 | https://github.com/yuchengstudio/START | 代码自动生成工具介绍 | 
  | tips | <br/>1.可以使用图形化界面产生外设驱动、中间件驱动 <br/>2.客户只需要专注于应用程序开发。<br/>3.START目前只支持在线版：http://start.atmel.com/# | | 
  | 2 | http://www.microchip.com/mplab/avr-support/atmel-studio-7 | MCHP 官方IDE |
+ | tips |  https://pan.baidu.com/s/1WvjCdfkEK-S2A52lLy3EDA | 如果官网链接失败，可使用百度云盘地址下载 |
  | tips |<br/>1. 请特别留意第3章 "installation"对电脑系统的要求。https://github.com/yuchengstudio/START/blob/master/picture_reference/as-installer-7.0.1931-readme.pdf 。<br/>2.  如何电脑系统安装Windows 7 Service Pack 1：https://support.microsoft.com/en-us/help/15090/windows-7-install-service-pack-1-sp1| 安装注意事项 |
 | tips | https://github.com/yuchengstudio/START/blob/master/picture_reference/Atmel-Studio-7-User-Guide.pdf | studio user guider |
 | tips | http://packs.download.atmel.com/ | device pack 独立下载链接 |
