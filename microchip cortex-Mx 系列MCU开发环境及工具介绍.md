@@ -14,6 +14,8 @@
  | tips |   | | 
  | 5 | https://github.com/atmelcorp/atmel-software-package| soft pack | 
  | tips |   | |  
+ | 5 | 视频学习资料：https://www.youtube.com/results?search_query=atmel+start+sensors| 视频学习资料 | 
+ 
  
  
  
