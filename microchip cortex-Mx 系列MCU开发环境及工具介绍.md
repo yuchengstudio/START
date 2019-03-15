@@ -16,6 +16,7 @@
  | tips |   | |  
  | 6 | 视频学习资料：https://www.youtube.com/results?search_query=atmel+start+sensors| 视频学习资料 | 
  | 7 | 量产程序烧录：https://github.com/yuchengstudio/START/blob/master/picture_reference/Using%20Atmel-ICE%20for%20AVR%C2%AE%20Programming%20In%20Mass.pdf|使用 atprogram 工具烧录程序|
+ | tips |  https://github.com/yuchengstudio/START/blob/master/picture_reference/00002466A_source.zip|使用上位机调用atprogram|
  | 8 | generate ELF file where the application firmware and fuses are included for SAM D/L/C devices：https://github.com/yuchengstudio/START/blob/master/picture_reference/SAM_D_L_C_ELF_File_Genearation_with_Fuse_bits.pdf|将应用代码与fuses合二为一到ELF文件|
  
  
