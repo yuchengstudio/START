@@ -19,7 +19,7 @@
  | tips |  https://github.com/yuchengstudio/START/blob/master/picture_reference/00002466A_source.zip|使用上位机调用atprogram|
  | 8 | generate ELF file where the application firmware and fuses are included for SAM D/L/C devices：https://github.com/yuchengstudio/START/blob/master/picture_reference/SAM_D_L_C_ELF_File_Genearation_with_Fuse_bits.pdf|将应用代码与fuses合二为一到ELF文件|
  | 9 |MPLABX 对支持器件的查询：  file:///C:/Users/A18428/AppData/Local/Temp/Temp1_mplabx-ide-v5.20-release-notes-00.zip/Device%20Support.htm ||
- | 10 |CMSIS-Core support for Cortex-M processor-based devices：  https://www.keil.com/pack/doc/CMSIS/Core/html/index.html ||
+ | 10 |CMSIS-Core support for Cortex-M processor-based devices：  https://www.keil.com/pack/doc/CMSIS/Core/html/index.html |CMSIS 支持cortex-M的函数库|
  
  
  
