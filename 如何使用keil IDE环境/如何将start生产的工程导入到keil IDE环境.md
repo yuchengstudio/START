@@ -13,8 +13,9 @@ Click on the Export Software Component button. Make sure the "µVision from Keil
 ## 2.5 将xxx.zip文件用解压工具解压到你自选的工作文件夹下面
 
 
-# 3.第二步：在Keil µVision IDE环境下打开第一步文件夹下对应的工程
-Start Keil µVision, and select File > Open. Change the file type filter to show Generator Pack Description files, (*.gpdsc). Select the ‘AtmelStart.gpdsc’ file from the folder as described in section Exporting the Project from Atmel START. Click Open.
+# 3.第二步：安装keil环境下的器件软件包（这步非常重要，否则无法正常打开工程）
+https://www.keil.com/boards2/atmel/samc21n_xpro/#/eula-container
+![image](https://github.com/yuchengstudio/START/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8keil%20IDE%E7%8E%AF%E5%A2%83/reference/statr_keil_003.png)
 
 
 
