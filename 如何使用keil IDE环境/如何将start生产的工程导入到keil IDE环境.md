@@ -22,7 +22,21 @@ https://www.keil.com/boards2/atmel/samc21n_xpro/#/eula-container
 ## 4.2 选择File > Open, 在文件过滤选项框中选择所有文件“All Files”, 在第一步解压的文件夹下选择“AtmelStart.gpdsc”文件，点击打开就能正常导入工程。
 ![image](https://github.com/yuchengstudio/START/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8keil%20IDE%E7%8E%AF%E5%A2%83/reference/statr_keil_004.png)
 
-## 4.x 编译之前请在项目配置的Output的界面取消“Browse Information”勾选，否则编译会非常耗时间。
+
+## 4.3 工程属性配置
+### a 确保 CMSIS > Core and Device > Startup 被选择.
+![image](https://github.com/yuchengstudio/START/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8keil%20IDE%E7%8E%AF%E5%A2%83/reference/statr_keil_006.png)
+
+### b 选择 Project > Options for target… > C/C++，确保"C99 Mode" 被选择.
+![image](https://github.com/yuchengstudio/START/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8keil%20IDE%E7%8E%AF%E5%A2%83/reference/statr_keil_007.png)
+
+### c 选择 Project > Options for target… > Debug. 从列表选项中选择CMSIS-DAP Debugger
+![image](https://github.com/yuchengstudio/START/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8keil%20IDE%E7%8E%AF%E5%A2%83/reference/statr_keil_008.png)
+
+### d 如果编译错误提示“不能打开源文件sam.h”,请在include 路径添加对应器件的头文件，例如‘.\samd20\include’ 对应SAMD20器件，‘.\samc21\include’对应SAMC21器件，以此类推。
+![image](https://github.com/yuchengstudio/START/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8keil%20IDE%E7%8E%AF%E5%A2%83/reference/statr_keil_009.png)
+
+### e 选择 Project > Options for target… > Output 取消“Browse Information”勾选，否则编译会非常耗时间。
 ![image](https://github.com/yuchengstudio/START/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8keil%20IDE%E7%8E%AF%E5%A2%83/reference/statr_keil_005.png)
 
 
