@@ -22,6 +22,9 @@ https://www.keil.com/boards2/atmel/samc21n_xpro/#/eula-container
 ## 4.2 选择File > Open, 在文件过滤选项框中选择所有文件“All Files”, 在第一步解压的文件夹下选择“AtmelStart.gpdsc”文件，点击打开就能正常导入工程。
 ![image](https://github.com/yuchengstudio/START/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8keil%20IDE%E7%8E%AF%E5%A2%83/reference/statr_keil_004.png)
 
+## 4.x 编译之前请在项目配置的Output的界面取消“Browse Information”勾选，否则编译会非常耗时间。
+![image](https://github.com/yuchengstudio/START/blob/master/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8keil%20IDE%E7%8E%AF%E5%A2%83/reference/statr_keil_005.png)
+
 
 
 
